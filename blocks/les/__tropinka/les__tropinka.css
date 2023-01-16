@@ -1,0 +1,6 @@
+.les__tropinka {
+    background-image: url(../../../images/les__0.png);
+    z-index: 4;
+    animation: idi 40s linear forwards normal infinite;
+    animation-play-state: running;
+}

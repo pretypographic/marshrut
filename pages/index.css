@@ -1,0 +1,13 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/marshrut/marshrut.css);
+@import url(../blocks/solnce/solnce.css);
+@import url(../blocks/solnce/_otrajenie/solnce_otrajenie.css);
+@import url(../blocks/ostrov/ostrov.css);
+@import url(../blocks/les/les.css);
+@import url(../blocks/les/__tropinka/les__tropinka.css);
+@import url(../blocks/les/__blizko/les__blizko.css);
+@import url(../blocks/les/__dalshe/les__dalshe.css);
+@import url(../blocks/les/__daleko/les__daleko.css);
+@import url(../blocks/les/_stop/les__stop.css);
+@import url(../blocks/knopka/knopka.css);
+@import url(../blocks/knopka/__knopka/knopka__knopka.css);

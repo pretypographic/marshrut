@@ -1,0 +1,5 @@
+.les__blizko {
+    background-image: url(../../../images/les__1.png);
+    z-index: 3;
+    animation: idi 65s linear forwards normal infinite running;
+}

@@ -1,0 +1,5 @@
+.les__daleko {
+    background-image: url(../../../images/les__3.png);
+    z-index: 1;
+    animation: idi 100s linear forwards normal infinite running;
+}

@@ -1,0 +1,12 @@
+.knopka {
+    width: 10vh;
+    height: 11.2vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    left: 0;
+    top: 46.7vh;
+    z-index: 5;
+}

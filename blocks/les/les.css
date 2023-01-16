@@ -1,0 +1,16 @@
+.les {
+    width: 200vw;
+    height: 90vh;
+    position: absolute;
+    background-size: 200vh;
+    background-repeat: repeat-x;
+}
+
+@keyframes idi {
+    0% {
+        transform: translate(0, 0);
+    }
+    100% {
+        transform: translate(-50%, 0);
+    }
+}

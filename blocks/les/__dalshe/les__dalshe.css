@@ -1,0 +1,5 @@
+.les__dalshe {
+    background-image: url(../../../images/les__2.png);
+    z-index: 2;
+    animation: idi 80s linear forwards normal infinite running;
+}
